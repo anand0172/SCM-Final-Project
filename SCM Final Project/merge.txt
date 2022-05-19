@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this is merge dfghff
-=======
-this is merge ddgdgdg
->>>>>>> feature1
